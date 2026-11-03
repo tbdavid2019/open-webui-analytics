@@ -25,6 +25,7 @@
   "overrides": {
     "vite": "$vite",
     "svelte": "$svelte",
-    "esbuild": "0.25.0"
+    "esbuild": "0.25.0",
+    "deepmerge": "npm:@stackline/deepmerge@1.1.0"
   }
 }
